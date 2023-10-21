@@ -1,0 +1,22 @@
+.nav {
+  background-color: black;
+  display: flex;
+  position: absolute;
+  top: 0vh;
+  left: 0vw;
+  width: 100vw;
+
+}
+
+.home {
+  color: white;
+  padding: 0.5rem;
+  font-size: 1.9rem;
+}
+
+.about {
+  color: white;
+  padding: 0.5rem;
+  font-size: 1.9rem;
+}
+
